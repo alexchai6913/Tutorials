@@ -3,6 +3,10 @@ Here’s an easy, step-by-step guide to help you set up Chrome Remote Desktop. D
 
 ---
 
+![Chrome Remote Desktop Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskbBO2MseksWgTpDZZxGTsxj9Y3TccsfF5g&s)
+
+---
+
 ## What You’ll Need  
 Before starting, make sure you have:  
 - A **Google Account** (not an education account for this setup).  
